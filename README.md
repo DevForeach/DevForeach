@@ -1,4 +1,4 @@
-### Olá, eu sou Lucas Marcolino
+### Olá, eu sou Lucas Marcolino, sou iniciante na programação e estou a procura de novas oportunidades e desafios.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
