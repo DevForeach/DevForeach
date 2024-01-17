@@ -1,3 +1,8 @@
+<p align="left">
+  <a href="https://github.com/KauaNuness">
+  <img src="https://komarev.com/ghpvc/?username=kauanuness&style=plastic&label=Stalker+visits" alt="kauanuness" />
+</p>
+
 ### Olá, eu sou Lucas Marcolino, sou iniciante na programação e estou a procura de novas oportunidades e desafios.
  
 <div style="display: inline_block"><br>
