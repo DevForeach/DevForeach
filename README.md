@@ -1,6 +1,6 @@
 <p align="left">
-  <a href="https://github.com/KauaNuness">
-  <img src="https://komarev.com/ghpvc/?username=kauanuness&style=plastic&label=Stalker+visits" alt="kauanuness" />
+  <a href="https://github.com/DevForeach">
+  <img src="https://komarev.com/ghpvc/?username=DevForeach&style=plastic&label=Stalker+visits" alt="DevForeach" />
 </p>
 
 ### Olá, eu sou Lucas Marcolino, sou iniciante na programação e estou a procura de novas oportunidades e desafios.
